@@ -17,7 +17,7 @@ My goal is to become a mobile developer and create my own apps.
 
 ### Code examples: 
  
- @objc private func signOut() {
+    @objc private func signOut() {
      let alertController = UIAlertController(title: nil, message: "Are you sure want to sin out?", preferredStyle: .alert)
      alertController.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
      alertController.addAction(UIAlertAction(title: "Sign Out", style: .destructive, handler: { (_) in
@@ -29,7 +29,7 @@ My goal is to become a mobile developer and create my own apps.
          }
      }))
      present(alertController, animated: true, completion: nil)
- }
+     }
 
 
 
