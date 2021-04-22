@@ -3,7 +3,7 @@
 ### Contact Info:
  **Email:** Kefearisgood@gmail.com
  **Discord:** Каратист#6154
-
+ **Telegram:** SVtelega92
 
 ### Summary:
 My goal is to become a mobile developer and create my own apps.
